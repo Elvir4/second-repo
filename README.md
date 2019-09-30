@@ -1,3 +1,2 @@
 # second-repo
-second GIT project
-I love :pizza:
+Dynamic List. It's exercise.
